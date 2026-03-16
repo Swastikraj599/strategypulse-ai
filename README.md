@@ -10,7 +10,7 @@
 
 ## What It Does
 
-StrategyPulse AI monitors 6 Fortune 500 companies — Apple, Microsoft, Google, Amazon, Meta, and Tesla in real time — ingesting signals across news, SEC filings, and research papers — and uses AI to detect strategic shifts before they become public knowledge.
+StrategyPulse AI monitors Fortune 500 companies — Apple, Microsoft, Google, Amazon, Meta, and Tesla in real time — ingesting signals across news, SEC filings, and research papers — and uses AI to detect strategic shifts before they become public knowledge.
 
 This is the work McKinsey's Strategy Practice gets paid $500K+ per engagement to do manually. StrategyPulse automates the signal detection, classification, and brief generation layer entirely.
 
